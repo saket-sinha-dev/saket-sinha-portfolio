@@ -1,0 +1,22 @@
+[cmdk-root] {
+  width: 100%;
+}
+
+[cmdk-input] {
+  width: 100%;
+  font-size: 16px;
+  outline: none;
+}
+
+[cmdk-list] {
+  max-height: 300px;
+  overflow: auto;
+  overscroll-behavior: contain;
+}
+
+[cmdk-item] {
+  cursor: pointer;
+}
+[cmdk-item][data-selected="true"] {
+  background: var(--muted);
+}

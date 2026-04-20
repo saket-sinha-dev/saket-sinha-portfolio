@@ -1,0 +1,187 @@
+{
+  "hero": {
+    "title": "I build scalable systems that handle millions of events.",
+    "subtitle": "I am Saket Sinha. I engineer high-throughput, zero-downtime backend architectures. Specializing in Java Spring Boot, Kafka, and LLM integrations, I build resilient distributed ecosystems that seamlessly process millions of transactions."
+  },
+  "metrics": [
+    {
+      "value": "1M+",
+      "label": "EVENTS PROCESSED DAILY"
+    },
+    {
+      "value": "60%",
+      "label": "INFRASTRUCTURE COST REDUCTION"
+    },
+    {
+      "value": "30%",
+      "label": "THROUGHPUT IMPROVEMENT"
+    },
+    {
+      "value": "10+",
+      "label": "YEARS EXPERIENCE"
+    }
+  ],
+  "philosophy": {
+    "title": "Simplicity is the Ultimate Sophistication.",
+    "points": [
+      {
+        "title": "Strictly Autonomous",
+        "description": "Systems that are built to manage themselves using AI-driven anomaly detection and self-healing architectures."
+      },
+      {
+        "title": "Observable Tech",
+        "description": "If you cannot measure it, it doesn't exist. We instrument telemetry natively, guaranteeing visibility at scale."
+      }
+    ]
+  },
+  "skills": [
+    {
+      "icon": "Database",
+      "title": "Data Tier",
+      "description": "Postgres, Neo4j, Redis"
+    },
+    {
+      "icon": "Cpu",
+      "title": "Computation Logic",
+      "description": "Java Spring Boot, Microservices"
+    },
+    {
+      "icon": "Network",
+      "title": "Message Broker",
+      "description": "Kafka, AWS"
+    }
+  ],
+  "projects": [
+    {
+      "id": "event-mesh",
+      "title": "Scalable Event-Tracking Microservice",
+      "category": "Microservices",
+      "description": "Designed a scalable event-tracking architecture ingesting 1M+ daily events. Improved forensic traceability and reduced incident investigation time by 40%.",
+      "tags": [
+        "Kafka",
+        "Java 21",
+        "Microservices"
+      ],
+      "image": "/images/project-1.jpg",
+      "link": "/case-study/scalable-event-tracking"
+    },
+    {
+      "id": "data-warehouse-migration",
+      "title": "Data Warehouse Optimization",
+      "category": "Performance",
+      "description": "Replaced Amazon Redshift with PostgreSQL, cutting data-warehouse cost by 60% (~$80K) and reducing query latency from 5s to 1.5s.",
+      "tags": [
+        "PostgreSQL",
+        "AWS",
+        "Migration"
+      ],
+      "image": "/images/project-2.jpg",
+      "link": "#"
+    },
+    {
+      "id": "llm-tooling",
+      "title": "LLM-Assisted Engineering",
+      "category": "AI",
+      "description": "Integrated LLM-powered developer tooling for Github Copilot, improving internal code-quality, documentation generation, and accelerating development velocity by 20%.",
+      "tags": [
+        "LLM",
+        "Prompt Engineering",
+        "Copilot"
+      ],
+      "image": "/images/project-3.jpg",
+      "link": "#"
+    }
+  ],
+  "blogs": [
+    {
+      "title": "Modernizing Legacy Systems from Java 8 to 21",
+      "summary": "Strategies for raising throughput and reducing memory consumption during major version upgrades.",
+      "tags": [
+        "Java",
+        "Performance"
+      ],
+      "readTime": "8 min read",
+      "link": "#"
+    },
+    {
+      "title": "Integrating LLMs seamlessly with microservices",
+      "summary": "Exploring RAG, prompt engineering, and intelligent automation in real products.",
+      "tags": [
+        "AI/LLM",
+        "Architecture"
+      ],
+      "readTime": "6 min read",
+      "link": "#"
+    }
+  ],
+  "experience": [
+    {
+      "period": "July 2024 — Present",
+      "role": "Engineer III, Software",
+      "company": "Thermo Fisher Scientific",
+      "description": "Architecting large-scale Spring Boot microservices, optimizing data-warehouse solutions, and pioneering AI/LLM integrations for developer productivity.",
+      "impact": "Reduced Redshift costs by 60%, ingested 1M+ daily events, and improved peak-load memory consumption by 25%."
+    },
+    {
+      "period": "January 2021 — July 2024",
+      "role": "Senior Software Engineer",
+      "company": "ASM Technologies Ltd",
+      "description": "Enhanced large-scale MDM products with automation frameworks and explored AI-driven anomaly detection for mobile device behavior.",
+      "impact": "Reduced manual test cycles by 30% and delivered a 7% efficiency improvement across enterprise device fleets."
+    },
+    {
+      "period": "July 2019 — January 2021",
+      "role": "Software Developer",
+      "company": "Active.Ai - A Gupshup Inc Company",
+      "description": "Leveraged Java, Spring Boot, Neo4j, and PostgreSQL to build high-performance, scalable POC microservices handling 2K+ concurrent users.",
+      "impact": "Achieved 15% faster data retrieval and consistently demonstrated an 8% improvement in system responsiveness."
+    },
+    {
+      "period": "November 2016 — June 2019",
+      "role": "Software Engineer",
+      "company": "Modefin",
+      "description": "Integrated core banking services (T24 Temenos, Finacle). Implemented Master-Slave replication systems and custom Tomcat load balancers.",
+      "impact": "Boosted TPS by 12% via server protocol optimization and data packet chunking over concurrent servers."
+    }
+  ],
+  "github": {
+    "summary": "Core contributor to high-performance systems, exploring Neo4j, Kafka, and LLM implementations.",
+    "repositories": [
+      {
+        "name": "java-spring-modernization",
+        "description": "A showcase for migrating Java 8 to Java 21, Spring Boot 2.2 to 3.4.",
+        "tech": "Java",
+        "stars": "Top",
+        "link": "#"
+      },
+      {
+        "name": "ai-developer-tooling",
+        "description": "Experimental scripts for integrating LLMs and automating API contract validation.",
+        "tech": "Python / Java",
+        "stars": "Top",
+        "link": "#"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Ready to Scale?",
+    "tagline": "Let's collaborate on high-impact systems.",
+    "email": "dev.saketsinha@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/saket-dev",
+    "github": "https://github.com/saket-sinha-dev",
+    "resume": "/Saket-Sinha-CV-V1.pdf"
+  },
+  "recognitions": {
+    "awards": [
+      "Bright Mind Award - 2023",
+      "Bright Mind Award - 2021"
+    ],
+    "certifications": [
+      "Agile Project Management with Jira",
+      "Cloud: 3 Advanced Topics",
+      "Cloud: 2 Lean and Agile Processes",
+      "Prompt Engineering: How to Talk to the AIs",
+      "Learning Java Lambda Expressions"
+    ]
+  }
+}
